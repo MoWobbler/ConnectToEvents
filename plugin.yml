@@ -1,0 +1,8 @@
+name: ConnectToEvents
+main: net.simpvp.ConnectToEvents.ConnectToEvents
+version: 1
+author: Mo
+commands:
+  event:
+    description: teleports to event world
+
